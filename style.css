@@ -95,7 +95,7 @@ body.dark-mode h6{
 }
 
 /* Navigation Bar */
-.navbar {
+.navbar { width:100%;
     position:fixed;
     z-index:55;
     background-color: #ffffff !important;
