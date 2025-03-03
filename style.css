@@ -3,8 +3,8 @@ body {
     font-family: 'Cormorant Garamond', serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f0e3;
-    color: #4a362b;
+    background-color: #FAF9F6;
+    color: #FF8DA1;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
